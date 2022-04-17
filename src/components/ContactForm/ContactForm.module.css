@@ -17,6 +17,15 @@ h1 {
   flex-direction: column;
 }
 
+.input {
+  padding: 5px;
+  border-radius: 1px;
+  border-color: grey;
+  margin-bottom: 10px;
+  border: 1px solid;
+  width: 200px;
+}
+
 .button {
   font-size: 14px;
   font-weight: 400;
